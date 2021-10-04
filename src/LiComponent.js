@@ -1,6 +1,6 @@
 const LiComponent = (props) => {
 	return (
-		<li>{props.element}</li>
+		<li>{props.element} 🍌🥧</li>
 	)
 }
 

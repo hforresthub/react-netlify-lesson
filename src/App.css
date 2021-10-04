@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+h1 {
+	float: right;
+}
+p {
+	float: right;
+	margin: 1%;
+	padding: 5%;
+}
+img {
+	float: left;
+	width: 200px;
+	border: 2px solid yellow;
+	border-radius: 10px;
+	box-shadow: 1px 1px 2px green;
+}
+ul {
+	display: flex;
+	flex-wrap: wrap;
+}
+li {
+	margin: 1%;
+	padding: 5%;
+	list-style: none;
+	border: 2px solid yellow;
+	border-radius: 10px;
+	box-shadow: 1px 1px 2px green;
+	color: black;
+	background-color: white;
+}
